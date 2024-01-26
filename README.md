@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @CrustaShrimp
 - 👀 I’m interested in programming, games and utility design
-- 🌱 I’m currently learning c++ (continuously learning), expecially upgrades since C++11
+- 🌱 I’m currently learning c++ (continuously learning), expecially upgrades since C++11, as well as JS using P5.js
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me ...
+
+Some of my work in P5.js:
+https://crustashrimp.github.io/Sweeper/
+https://crustashrimp.github.io/ASCII-image/
 
 <!---
 CrustaShrimp/CrustaShrimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
