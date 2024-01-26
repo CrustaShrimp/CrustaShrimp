@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 Some of my work in P5.js:
-https://crustashrimp.github.io/Sweeper/
-https://crustashrimp.github.io/ASCII-image/
+- Minesweeper: https://crustashrimp.github.io/Sweeper/
+- ASCII image converter: https://crustashrimp.github.io/ASCII-image/
 
 <!---
 CrustaShrimp/CrustaShrimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
